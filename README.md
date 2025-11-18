@@ -5,7 +5,9 @@ This is the official repository for the research paper
     TransformEEG: Towards Improving Model Generalizability in
     Deep Learning-based EEG Parkinson's Disease Detection
 
-Submitted to Neurocomputing.
+Published in Neurocomputing.
+
+[![DOI:10.1016/j.neucom.2025.132075](https://img.shields.io/badge/DOI-10.1016/j.neucom.2025.132075-blue)](https://doi.org/10.1016/j.neucom.2025.132075)
 
 In this work, we propose TransformEEG, a hybrid Convolutional-Transformer
 designed for PD detection using EEG data.
@@ -96,8 +98,6 @@ We plan to release them in zenodo.
 If you find the codes and results useful for your research,
 Please consider citing our work.
 It would help us continue our research.
-
-The current version of the paper is available on [Arxiv](https://doi.org/10.48550/arXiv.2507.07622).
 
 Contributors:
 
